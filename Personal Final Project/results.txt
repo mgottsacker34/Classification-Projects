@@ -1,0 +1,54 @@
+Classify "Life on the Mississippi" (Twain):  Mark Twain
+Probability it is... 
+Twain:  0.0335074147342
+Dickens:  1.27617655605e-07
+Fitzgerald:  4.41652994337e-06
+Poe:  0.00141491221491
+Wilde:  1.24518996767e-07
+Shakespeare:  1.32786333817e-11
+
+Classify "A Tale of Two Cities" (Dickens):  Charles Dickens
+Probability it is... 
+Twain:  2.70228721353e-07
+Dickens:  0.000841014868715
+Fitzgerald:  2.34732460069e-09
+Poe:  8.51243833653e-07
+Wilde:  1.32594609445e-09
+Shakespeare:  4.43287931988e-15
+
+Classify "This Side of Paradise" (F. Scott Fitzgerald): F. Scott Fitzgerald
+Probability it is... 
+Twain:  0.00393929617013
+Dickens:  0.00031377277209
+Fitzgerald:  1.38001717042
+Poe:  0.000263456206978
+Wilde:  1.74584061477e-05
+Shakespeare:  1.57347928615e-14
+
+Classify "The Fall of the House of Usher" (Poe):  Edgar Allen Poe
+Probability it is... 
+Twain:  0.00974160607623
+Dickens:  0.172431248931
+Fitzgerald:  0.144442174731
+Poe:  9.63809221911
+Wilde:  0.0220294090049
+Shakespeare:  6.88322263122e-08
+
+Classify "The Happy Prince and Other Tales" (Wilde):  Oscar Wilde
+Probability it is... 
+Twain:  2.05511771939e-06
+Dickens:  5.38881624105e-05
+Fitzgerald:  1.04782739288e-05
+Poe:  8.67024037891e-06
+Wilde:  0.0193840067356
+Shakespeare:  6.63833732333e-12
+
+Classify "Macbeth" (Shakespeare):  Shakespeare
+Probability it is... 
+Twain:  0.710399380852
+Dickens:  0.000102056363626
+Fitzgerald:  0.000588939443815
+Poe:  0.0107006982137
+Wilde:  0.000468556895925
+Shakespeare:  29.0579008729
+
